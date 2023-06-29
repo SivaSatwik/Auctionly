@@ -31,9 +31,7 @@ We welcome contributions from the open-source community to enhance Auctionly fur
 5. Push to the branch: `git push origin my-feature`
 6. Submit a pull request with a detailed description of your changes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
