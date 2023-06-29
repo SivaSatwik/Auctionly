@@ -33,8 +33,4 @@ We welcome contributions from the open-source community to enhance Auctionly fur
 
 
 
-## Contact
-
-If you have any questions, suggestions, or feedback, please feel free to reach out to us. You can contact us at [email protected]
-
 We hope that Auctionly will contribute to the online auctioning community and build upon previous research in this field. Thank you for your interest in Auctionly!
